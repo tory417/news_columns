@@ -1,0 +1,28 @@
+*{
+	background-color: #add8e6;
+	font-family: Segoe UI;
+}
+.container{
+	display: flex;
+	justify-content: space-around;
+	flex-grow: 1;
+}
+.news__bottom{
+	background-color: #f5f5f5;
+	padding: 5px 15px 15px 15px;
+}
+.column{
+	width: 30%;
+}
+b{
+	background-color: #f5f5f5;
+}
+.news{
+	margin: 20px;
+}
+.news__top{
+	background-color: #f5f5f5;
+}
+img{
+	width: 100%;
+}
